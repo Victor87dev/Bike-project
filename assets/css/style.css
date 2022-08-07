@@ -31,7 +31,7 @@ section{
 
 header{
     
-    
+    color: #FFFFFF;
     font-size: 10px;
 }
 
@@ -55,6 +55,27 @@ header{
    margin-top: -33px;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.buttons, .buttonColorred, .buttonColorwhite{
+    margin-left: 8px;
+    margin-top: 40px;
+    color: #FFFFFF; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.buttonColorred{
+    background-color: #EC013A;
+    padding: 17px;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    text-decoration: none;
+    
 }
 
 
