@@ -12,9 +12,9 @@ main{
 
   
 #conteudo-Left{
+    
     width: 50%;
     height: 657px;
-    border: 1px solid red;
     background-color: black;
     color: white;
     padding: 90px;
@@ -22,7 +22,7 @@ main{
     
 }
 
-section{
+.left-Lado{
     display: flex;
     flex-direction: column;
     gap: 60px;
@@ -50,11 +50,13 @@ header{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.loremIpsum{
+.loremIpsum p{
    
    margin-top: -33px;
    font-family: Arial, Helvetica, sans-serif;
    font-size: 14px;
+   
+   
 }
 
 a{
@@ -69,7 +71,7 @@ a{
     
 }
 
-.buttonColorred{
+.buttonColorred {
     background-color: #EC013A;
     padding: 17px;
     border: 1px solid #FFFFFF;
@@ -78,12 +80,37 @@ a{
     
 }
 
+.icons i{
+    font-size: 43px;
+    margin-top: 40px;
+    width: 57px;
+   
+
+}
+
 
  #conteudo-Right{
+    display: flex;
+
     width: 50%;
     height: 657px;
     border: 1px solid yellow;
-    background-color: gray;
+    background-color: rgb(59, 58, 58);
     color: white;
+ }
+
+ .right-Lado, .opcoes-Menu a{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px; 
+    margin-left: 85px;
+    padding-top: 70px; 
+ }
+
+ .imgBike, img{
+    width: 600px;
+    
+    margin-left: -23px;
+    margin-top: 15px;
  }
 
