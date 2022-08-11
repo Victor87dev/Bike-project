@@ -91,12 +91,10 @@ a{
 
  #conteudo-Right{
     display: flex;
-
     width: 50%;
     height: 657px;
-    border: 1px solid yellow;
     background-color: rgb(53, 52, 52);
-    color: white;
+    color: #FFFFFF;
  }
 
  .right-Lado, .opcoes-Menu a{
@@ -108,10 +106,10 @@ a{
  }
 
  .imgBike, img{
-    width: 600px;
-    
+    width: 600px;  
     margin-left: -23px;
     margin-top: 15px;
+    
  }
 
  .descricaoBike{
