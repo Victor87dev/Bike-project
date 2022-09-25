@@ -10,3 +10,5 @@ Projeto feito para treinar HTML e CSS
 ### 💻 Descrição
 
 Projeto feito no FIGMA e depois feito em HTML e CSS
+
+#### Obrigado por visitar o projeto! ❤️
